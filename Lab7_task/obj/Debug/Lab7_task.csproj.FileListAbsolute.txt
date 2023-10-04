@@ -1,0 +1,6 @@
+C:\Users\Reaper\Desktop\CC_LAB\Lab7_1\Lab7_task\bin\Debug\Lab7_task.exe.config
+C:\Users\Reaper\Desktop\CC_LAB\Lab7_1\Lab7_task\bin\Debug\Lab7_task.exe
+C:\Users\Reaper\Desktop\CC_LAB\Lab7_1\Lab7_task\bin\Debug\Lab7_task.pdb
+C:\Users\Reaper\Desktop\CC_LAB\Lab7_1\Lab7_task\obj\Debug\Lab7_task.csproj.CoreCompileInputs.cache
+C:\Users\Reaper\Desktop\CC_LAB\Lab7_1\Lab7_task\obj\Debug\Lab7_task.exe
+C:\Users\Reaper\Desktop\CC_LAB\Lab7_1\Lab7_task\obj\Debug\Lab7_task.pdb
