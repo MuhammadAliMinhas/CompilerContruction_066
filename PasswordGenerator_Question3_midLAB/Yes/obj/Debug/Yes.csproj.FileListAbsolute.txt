@@ -1,0 +1,9 @@
+C:\Users\Reaper\Desktop\CC_LAB\Yes\Yes\bin\Debug\Yes.exe.config
+C:\Users\Reaper\Desktop\CC_LAB\Yes\Yes\bin\Debug\Yes.exe
+C:\Users\Reaper\Desktop\CC_LAB\Yes\Yes\bin\Debug\Yes.pdb
+C:\Users\Reaper\Desktop\CC_LAB\Yes\Yes\obj\Debug\Yes.Form1.resources
+C:\Users\Reaper\Desktop\CC_LAB\Yes\Yes\obj\Debug\Yes.Properties.Resources.resources
+C:\Users\Reaper\Desktop\CC_LAB\Yes\Yes\obj\Debug\Yes.csproj.GenerateResource.cache
+C:\Users\Reaper\Desktop\CC_LAB\Yes\Yes\obj\Debug\Yes.csproj.CoreCompileInputs.cache
+C:\Users\Reaper\Desktop\CC_LAB\Yes\Yes\obj\Debug\Yes.exe
+C:\Users\Reaper\Desktop\CC_LAB\Yes\Yes\obj\Debug\Yes.pdb
