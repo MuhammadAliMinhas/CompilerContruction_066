@@ -1,0 +1,10 @@
+D:\0_Visual_Projects\Lab_8\Lab_8_GRADED_TASK\bin\Debug\Lab_8_GRADED_TASK.exe.config
+D:\0_Visual_Projects\Lab_8\Lab_8_GRADED_TASK\bin\Debug\Lab_8_GRADED_TASK.exe
+D:\0_Visual_Projects\Lab_8\Lab_8_GRADED_TASK\bin\Debug\Lab_8_GRADED_TASK.pdb
+D:\0_Visual_Projects\Lab_8\Lab_8_GRADED_TASK\obj\Debug\Lab_8_GRADED_TASK.csproj.AssemblyReference.cache
+D:\0_Visual_Projects\Lab_8\Lab_8_GRADED_TASK\obj\Debug\Lab_8_GRADED_TASK.Form1.resources
+D:\0_Visual_Projects\Lab_8\Lab_8_GRADED_TASK\obj\Debug\Lab_8_GRADED_TASK.Properties.Resources.resources
+D:\0_Visual_Projects\Lab_8\Lab_8_GRADED_TASK\obj\Debug\Lab_8_GRADED_TASK.csproj.GenerateResource.cache
+D:\0_Visual_Projects\Lab_8\Lab_8_GRADED_TASK\obj\Debug\Lab_8_GRADED_TASK.csproj.CoreCompileInputs.cache
+D:\0_Visual_Projects\Lab_8\Lab_8_GRADED_TASK\obj\Debug\Lab_8_GRADED_TASK.exe
+D:\0_Visual_Projects\Lab_8\Lab_8_GRADED_TASK\obj\Debug\Lab_8_GRADED_TASK.pdb

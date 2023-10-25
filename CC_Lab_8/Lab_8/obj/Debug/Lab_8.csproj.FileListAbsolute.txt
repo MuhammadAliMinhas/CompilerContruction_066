@@ -1,0 +1,10 @@
+D:\0_Visual_Projects\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+D:\0_Visual_Projects\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+D:\0_Visual_Projects\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+D:\0_Visual_Projects\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.AssemblyReference.cache
+D:\0_Visual_Projects\Lab_8\Lab_8\obj\Debug\Lab_8.Form1.resources
+D:\0_Visual_Projects\Lab_8\Lab_8\obj\Debug\Lab_8.Properties.Resources.resources
+D:\0_Visual_Projects\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.GenerateResource.cache
+D:\0_Visual_Projects\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.CoreCompileInputs.cache
+D:\0_Visual_Projects\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+D:\0_Visual_Projects\Lab_8\Lab_8\obj\Debug\Lab_8.pdb
