@@ -1,0 +1,14 @@
+D:\0_Visual_Projects\Lab_6\Lab_6_Graded_Task\bin\Debug\net6.0\Lab_6_Graded_Task.exe
+D:\0_Visual_Projects\Lab_6\Lab_6_Graded_Task\bin\Debug\net6.0\Lab_6_Graded_Task.deps.json
+D:\0_Visual_Projects\Lab_6\Lab_6_Graded_Task\bin\Debug\net6.0\Lab_6_Graded_Task.runtimeconfig.json
+D:\0_Visual_Projects\Lab_6\Lab_6_Graded_Task\bin\Debug\net6.0\Lab_6_Graded_Task.dll
+D:\0_Visual_Projects\Lab_6\Lab_6_Graded_Task\bin\Debug\net6.0\Lab_6_Graded_Task.pdb
+D:\0_Visual_Projects\Lab_6\Lab_6_Graded_Task\obj\Debug\net6.0\Lab_6_Graded_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\0_Visual_Projects\Lab_6\Lab_6_Graded_Task\obj\Debug\net6.0\Lab_6_Graded_Task.AssemblyInfoInputs.cache
+D:\0_Visual_Projects\Lab_6\Lab_6_Graded_Task\obj\Debug\net6.0\Lab_6_Graded_Task.AssemblyInfo.cs
+D:\0_Visual_Projects\Lab_6\Lab_6_Graded_Task\obj\Debug\net6.0\Lab_6_Graded_Task.csproj.CoreCompileInputs.cache
+D:\0_Visual_Projects\Lab_6\Lab_6_Graded_Task\obj\Debug\net6.0\Lab_6_Graded_Task.dll
+D:\0_Visual_Projects\Lab_6\Lab_6_Graded_Task\obj\Debug\net6.0\refint\Lab_6_Graded_Task.dll
+D:\0_Visual_Projects\Lab_6\Lab_6_Graded_Task\obj\Debug\net6.0\Lab_6_Graded_Task.pdb
+D:\0_Visual_Projects\Lab_6\Lab_6_Graded_Task\obj\Debug\net6.0\Lab_6_Graded_Task.genruntimeconfig.cache
+D:\0_Visual_Projects\Lab_6\Lab_6_Graded_Task\obj\Debug\net6.0\ref\Lab_6_Graded_Task.dll
